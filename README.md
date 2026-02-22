@@ -119,17 +119,7 @@ Los gráficos incluidos permiten visualizar comparaciones directas entre método
 - La escalabilidad depende de la correcta división del trabajo y sincronización.
 
 ---
-
-## Posibles Mejoras
-
-- Implementar medición de speedup y eficiencia paralela formal.
-- Incluir especificaciones del hardware utilizado en las pruebas.
-- Analizar comportamiento con distintos números de hilos.
-- Agregar comparación explícita con versión secuencial optimizada.
-- Automatizar generación de gráficos a partir de los resultados.
-
----
-
+ 
 ## Conclusión
 
 Este proyecto permite comparar distintos modelos de paralelismo en C aplicados a un problema clásico de alto costo computacional.
